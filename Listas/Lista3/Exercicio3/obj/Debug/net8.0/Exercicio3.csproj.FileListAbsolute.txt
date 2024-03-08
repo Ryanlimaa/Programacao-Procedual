@@ -1,0 +1,15 @@
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\bin\Debug\net8.0\Exercicio3.exe
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\bin\Debug\net8.0\Exercicio3.deps.json
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\bin\Debug\net8.0\Exercicio3.runtimeconfig.json
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\bin\Debug\net8.0\Exercicio3.dll
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\bin\Debug\net8.0\Exercicio3.pdb
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\obj\Debug\net8.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\obj\Debug\net8.0\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\obj\Debug\net8.0\Exercicio3.AssemblyInfo.cs
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\obj\Debug\net8.0\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\obj\Debug\net8.0\Exercicio3.sourcelink.json
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\obj\Debug\net8.0\Exercicio3.dll
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\obj\Debug\net8.0\refint\Exercicio3.dll
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\obj\Debug\net8.0\Exercicio3.pdb
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\obj\Debug\net8.0\Exercicio3.genruntimeconfig.cache
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista3\Exercicio3\obj\Debug\net8.0\ref\Exercicio3.dll
