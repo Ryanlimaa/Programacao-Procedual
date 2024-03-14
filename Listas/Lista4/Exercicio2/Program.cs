@@ -4,8 +4,8 @@ class Program
 {
     static void  Main(string[] args)
     {
-        const int NUMERO_MAXIMO = 1;
-        const int NUMERO_MINIMO = 9;
+        const int NUMERO_MINIMO = 1;
+        const int NUMERO_MAXIMO = 9;
 
         System.Console.WriteLine("Digite um numero:");
         int tamanhoQuadrado = int.Parse(Console.ReadLine());
