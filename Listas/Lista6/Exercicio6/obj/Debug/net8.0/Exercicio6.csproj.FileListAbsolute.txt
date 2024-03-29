@@ -1,0 +1,15 @@
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\bin\Debug\net8.0\Exercicio6.exe
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\bin\Debug\net8.0\Exercicio6.deps.json
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\bin\Debug\net8.0\Exercicio6.runtimeconfig.json
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\bin\Debug\net8.0\Exercicio6.dll
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\bin\Debug\net8.0\Exercicio6.pdb
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\obj\Debug\net8.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\obj\Debug\net8.0\Exercicio6.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\obj\Debug\net8.0\Exercicio6.AssemblyInfo.cs
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\obj\Debug\net8.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\obj\Debug\net8.0\Exercicio6.sourcelink.json
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\obj\Debug\net8.0\Exercicio6.dll
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\obj\Debug\net8.0\refint\Exercicio6.dll
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\obj\Debug\net8.0\Exercicio6.pdb
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\obj\Debug\net8.0\Exercicio6.genruntimeconfig.cache
+C:\Users\ADM\Desktop\Programacao-Procedual\Listas\Lista6\Exercicio6\obj\Debug\net8.0\ref\Exercicio6.dll
