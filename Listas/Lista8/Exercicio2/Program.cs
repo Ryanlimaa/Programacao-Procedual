@@ -11,7 +11,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        const int TAMANHO_VETOR = 3;
+        const int TAMANHO_VETOR = 4;
         Produto[] dados = new Produto[TAMANHO_VETOR];
 
         for (int i = 0; i < dados.Length; i++)
